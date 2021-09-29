@@ -1,0 +1,71 @@
+.topDiv {
+   /* Styling the top "header" for my page */
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 1px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+.subtitle {
+  /* Making subtitle font a little bigger*/
+  /* Also using em instead of px for font sizes for more consistent experience for both desktop and mobile devices */
+  font-size: 1.4em;
+}
+.aboutMe {
+  font-family: verdana;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+}
+p1 {
+ 
+}
+.boxDiv {
+  //text-align: center;
+  /* Reading box with rounded corners div*/
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.tableDiv {
+  background-color: RoyalBlue;
+  width: 100%;
+  margin: 0px 0px 0px -9px;
+  padding: 2px 9px 0px 0px;
+  color: GhostWhite;
+  //font-family: Verdana, Geneva, //sans-serif;
+}
+h2 {
+  text-align: center;
+}
+
+img {
+  width: 25em;
+  height: 30em;
+  border: solid;
+ border-width: 1px;
+  border-color: ghostwhite;
+}
+
+table {
+  margin: auto;
+}
+
+.tableDiv p {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: blue;
+}
